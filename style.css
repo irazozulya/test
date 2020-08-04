@@ -1,0 +1,26 @@
+@charset "windows-1251";
+
+body {
+  background-color: white;
+}
+
+.red_circle {
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  border: 1px solid red;
+  border-radius: 50%;
+  background: none;
+}
+
+.yellow_circle {
+  position: absolute;
+  border: 1px solid yellow;
+  border-radius: 50%;
+  background: none;
+}
+
+hr {
+  position: absolute;
+  border: 1px solid blue;
+}
